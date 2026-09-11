@@ -1,0 +1,14 @@
+[
+  {"id": "exact_01", "category": "keyword", "query": "红烧肉怎么做", "expected_recipes": ["简易红烧肉", "南派红烧肉", "湖南家常红烧肉", "徽派红烧肉"]},
+  {"id": "exact_02", "category": "keyword", "query": "麻婆豆腐的制作步骤", "expected_recipes": ["麻婆豆腐"]},
+  {"id": "exact_03", "category": "keyword", "query": "酸辣土豆丝需要什么食材", "expected_recipes": ["酸辣土豆丝"]},
+  {"id": "exact_04", "category": "keyword", "query": "怎么蒸鸡蛋羹", "expected_recipes": ["鸡蛋羹", "蒸箱鸡蛋羹", "微波炉鸡蛋羹"]},
+  {"id": "semantic_01", "category": "semantic", "query": "想做一道简单的番茄鸡蛋家常菜", "expected_recipes": ["西红柿炒鸡蛋"]},
+  {"id": "semantic_02", "category": "semantic", "query": "用空气炸锅做羊排", "expected_recipes": ["空气炸锅羊排"]},
+  {"id": "semantic_03", "category": "semantic", "query": "适合早餐的燕麦和牛奶", "expected_recipes": ["牛奶燕麦"]},
+  {"id": "semantic_04", "category": "semantic", "query": "不用厨师机做面包", "expected_recipes": ["无厨师机蜂蜜面包"]},
+  {"id": "graph_01", "category": "relation", "query": "哪些菜同时使用西红柿和鸡蛋", "expected_recipes": ["西红柿炒鸡蛋", "西红柿鸡蛋汤", "西红柿鸡蛋挂面"]},
+  {"id": "graph_02", "category": "relation", "query": "虾和黄油通过哪些菜联系", "expected_recipes": ["黄油煎虾", "蒜香黄油虾", "芥末黄油罗氏虾"]},
+  {"id": "graph_03", "category": "relation", "query": "从鸡肉到土豆有什么菜谱路径", "expected_recipes": ["黄焖鸡", "新疆大盘鸡", "土豆炖排骨"]},
+  {"id": "graph_04", "category": "relation", "query": "茄子属于哪些菜谱，它们还用了什么食材", "expected_recipes": ["红烧茄子", "炒茄子", "烤茄子", "鱼香茄子"]}
+]

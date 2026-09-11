@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>今天吃什么 - GraphRAG 菜谱助手</title>
+  <link rel="stylesheet" href="/frontend/styles.css">
+</head>
+<body>
+  <div class="bg-layer"></div>
+  <main class="app-shell">
+    <section id="landing-view" class="view view-active">
+      <header class="hero">
+        <div class="hero-badge">✦</div>
+        <h1>今天吃什么？</h1>
+        <p>AI 菜谱助手为您推荐个性化菜谱，提供详细烹饪指导</p>
+        <button id="start-chat-btn" class="primary-btn">开始对话</button>
+      </header>
+
+      <section class="quick-start card-surface">
+        <h2>💡 快速开始</h2>
+        <div id="quick-questions" class="quick-grid"></div>
+      </section>
+
+      <section class="recommend card-surface">
+        <div class="recommend-header">
+          <h2>♡ 为您推荐</h2>
+          <button id="refresh-recommendations-btn" class="text-btn">换一批</button>
+        </div>
+        <div id="recommendation-list" class="recommend-grid"></div>
+      </section>
+    </section>
+
+    <section id="chat-view" class="view hidden">
+      <div class="chat-head card-surface">
+        <button id="back-home-btn" class="text-btn">返回首页</button>
+        <h2>菜谱对话助手</h2>
+        <span id="route-pill" class="route-pill">待提问</span>
+      </div>
+
+      <div id="message-list" class="message-list card-surface"></div>
+
+      <form id="chat-form" class="chat-input card-surface">
+        <textarea id="chat-textarea" placeholder="输入你的问题，例如：30 分钟内能做什么下饭菜？" rows="2"></textarea>
+        <button id="send-btn" type="submit" class="primary-btn">发送</button>
+      </form>
+    </section>
+  </main>
+
+  <script src="/frontend/app.js?v=category-only-1"></script>
+</body>
+</html>
+

@@ -1,0 +1,2138 @@
+[
+  {
+    "name": "小龙虾",
+    "file_path": "data\\dishes\\aquatic\\小龙虾\\小龙虾.md",
+    "description": "在家里做的小龙虾，肉质细嫩，鲜嫩多汁，干净卫生。",
+    "category": "海鲜",
+    "image_url": "./成品.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "美味"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "干煎阿根廷红虾",
+    "file_path": "data\\dishes\\aquatic\\干煎阿根廷红虾\\干煎阿根廷红虾.md",
+    "description": "平常所见到虾，只有赴“汤”蹈“火”后，才能红！阿根廷虾很任性，一红就红一辈子！跟它住在北极的亲戚，北极虾一样，天生红。",
+    "category": "海鲜",
+    "image_url": "./干煎阿根廷红虾.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "油焖大虾",
+    "file_path": "data\\dishes\\aquatic\\油焖大虾\\油焖大虾.md",
+    "description": "预估烹饪难度：★★★★",
+    "category": "海鲜",
+    "image_url": "./油焖大虾.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "烤鱼",
+    "file_path": "data\\dishes\\aquatic\\混合烤鱼\\烤鱼.md",
+    "description": "预估烹饪难度：★★★★",
+    "category": "海鲜",
+    "image_url": "./烤鱼.jpg",
+    "cooking_time": null,
+    "tags": [
+      "美味"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "清蒸鲈鱼",
+    "file_path": "data\\dishes\\aquatic\\清蒸鲈鱼\\清蒸鲈鱼.md",
+    "description": "预估烹饪难度：★★★",
+    "category": "海鲜",
+    "image_url": "./改刀.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "白灼虾",
+    "file_path": "data\\dishes\\aquatic\\白灼虾\\白灼虾.md",
+    "description": "白灼虾非常适合程序员在沿海地区做，类似于清蒸鱼：简单容错、有营养、有满足感，甚至很好看。",
+    "category": "海鲜",
+    "image_url": "./白灼虾.webp",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "营养"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "糖醋鲤鱼",
+    "file_path": "data\\dishes\\aquatic\\糖醋鲤鱼\\糖醋鲤鱼.md",
+    "description": "预估烹饪难度：★★★★",
+    "category": "海鲜",
+    "image_url": "./腌制.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "芥末黄油罗氏虾",
+    "file_path": "data\\dishes\\aquatic\\芥末黄油罗氏虾\\芥末黄油罗氏虾.md",
+    "description": "这是一道做法简单，味道美味，具有新意的海鲜菜。",
+    "category": "海鲜",
+    "image_url": "./芥末黄油罗氏虾.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "美味"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "葱烧海参",
+    "file_path": "data\\dishes\\aquatic\\葱烧海参\\葱烧海参.md",
+    "description": "这道菜的做法并不难，就是海参泡发是需要时间的。疫情隔离在家，干海参是过年前存的年货，正好拿出来尝试一下。",
+    "category": "海鲜",
+    "image_url": "./葱烧海参.jpeg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "蒜蓉虾",
+    "file_path": "data\\dishes\\aquatic\\蒜蓉虾\\蒜蓉虾.md",
+    "description": "蒜蓉虾是广东省地方传统名菜，色香味俱全。",
+    "category": "海鲜",
+    "image_url": "./1.jpeg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "蒜香黄油虾",
+    "file_path": "data\\dishes\\aquatic\\蒜香黄油虾\\蒜香黄油虾.md",
+    "description": "蒜香黄油虾是一道经典的西式海鲜料理，以鲜虾为主料，配以蒜末和黄油烹制而成。口感鲜嫩，蒜香浓郁。制作简单，适合家庭日常烹饪。",
+    "category": "海鲜",
+    "image_url": "./1.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "蛏抱蛋",
+    "file_path": "data\\dishes\\aquatic\\蛏抱蛋\\蛏抱蛋.md",
+    "description": "蛏抱蛋，是流行于福建省福州地区的传统家常菜",
+    "category": "海鲜",
+    "image_url": "./1.jpeg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "香煎翘嘴鱼",
+    "file_path": "data\\dishes\\aquatic\\香煎翘嘴鱼\\香煎翘嘴鱼.md",
+    "description": "预估烹饪难度：★★★★",
+    "category": "海鲜",
+    "image_url": "./香煎翘嘴鱼.jpeg",
+    "cooking_time": null,
+    "tags": [
+      "美味"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "鲤鱼炖白菜",
+    "file_path": "data\\dishes\\aquatic\\鲤鱼炖白菜\\鲤鱼炖白菜.md",
+    "description": "预估烹饪难度：★★★",
+    "category": "海鲜",
+    "image_url": "./鲤鱼炖白菜.jpeg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "鳊鱼炖豆腐",
+    "file_path": "data\\dishes\\aquatic\\鳊鱼炖豆腐\\鳊鱼炖豆腐.md",
+    "description": "预估烹饪难度：★★★",
+    "category": "海鲜",
+    "image_url": "./鳊鱼炖豆腐.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "黄油煎虾",
+    "file_path": "data\\dishes\\aquatic\\黄油煎虾\\黄油煎虾.md",
+    "description": "黄油煎虾是一道制作相对简单、风味极佳的菜式，主要耗时在于处理活虾，总耗时在一个小时内，适合初学者进行烹饪。",
+    "category": "海鲜",
+    "image_url": "./黄油煎虾.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "总耗时 1 小时内",
+    "cooking_time_source": "总耗时在一个小时内"
+  },
+  {
+    "name": "完美水煮蛋",
+    "file_path": "data\\dishes\\breakfast\\完美水煮蛋.md",
+    "description": "科学家研发的循环水煮法，可同时达到蛋黄绵密、蛋白均匀凝固且保留最多营养素的效果。需精准控制温度与时间，难度较高。",
+    "category": "早餐",
+    "image_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1yBdnK.img?w=768&h=512&m=6",
+    "cooking_time": null,
+    "tags": [
+      "营养"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "苏格兰蛋",
+    "file_path": "data\\dishes\\breakfast\\苏格兰蛋\\苏格兰蛋.md",
+    "description": "<!-- 这是 HowToCook 菜谱仓库中的示例菜谱模板文件。 -->",
+    "category": "早餐",
+    "image_url": "./egg1.png",
+    "cooking_time": null,
+    "tags": [
+      "快手"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "油泼辣子",
+    "file_path": "data\\dishes\\condiment\\油泼辣子\\油泼辣子.md",
+    "description": "制作耗时 10 分钟",
+    "category": "调料",
+    "image_url": "./口水鸡+油泼辣子.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "草莓酱",
+    "file_path": "data\\dishes\\condiment\\草莓酱\\草莓酱.md",
+    "description": "可以买那种一筐一筐卖的小草莓，主要是便宜。做成酱抹在面包上非常好吃。",
+    "category": "调料",
+    "image_url": "./洗好的草莓.jpeg",
+    "cooking_time": null,
+    "tags": [
+      "美味"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "蔗糖糖浆",
+    "file_path": "data\\dishes\\condiment\\蔗糖糖浆\\蔗糖糖浆.md",
+    "description": "将糖事先溶解好便于在配制饮料（特别是冷饮）时给饮料增甜",
+    "category": "调料",
+    "image_url": "./bottle.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "反沙芋头",
+    "file_path": "data\\dishes\\dessert\\反沙芋头\\反沙芋头.md",
+    "description": "反沙芋头是一道著名的潮汕小吃，下午茶，制作起来特别方便，～预计制作时间 20 分钟",
+    "category": "甜品",
+    "image_url": "./反沙芋头成品.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "咖啡椰奶冻",
+    "file_path": "data\\dishes\\dessert\\咖啡椰奶冻\\咖啡椰奶冻.md",
+    "description": "咖啡椰奶冻是一道简单易于制作的甜品 出品时间约 1 小时（不算冷藏）",
+    "category": "甜品",
+    "image_url": "./咖啡椰奶冻.png",
+    "cooking_time": null,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "戚风蛋糕",
+    "file_path": "data\\dishes\\dessert\\戚风蛋糕\\戚风蛋糕.md",
+    "description": "戚风蛋糕是一道烘焙入门菜品，有一定操作难度。但成功制作后，其口感细腻绵软，令人回味。加上烘烤时间，一般初学者需要 **1.5 - 2 小时**即可完成。",
+    "category": "甜品",
+    "image_url": "./IMG_1516.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "提拉米苏",
+    "file_path": "data\\dishes\\dessert\\提拉米苏\\提拉米苏.md",
+    "description": "提拉米苏，是意大利传统甜品。无需烤箱操作简便，烘焙新手也可以零失误获得一份美味的提拉米苏。",
+    "category": "甜品",
+    "image_url": "提拉米苏成品.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "美味"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "无厨师机蜂蜜面包",
+    "file_path": "data\\dishes\\dessert\\无厨师机蜂蜜面包\\无厨师机蜂蜜面包.md",
+    "description": "这个菜谱不需要厨师机，只需要等待！可以晚上的时候准备好放入冰箱，第二天再烤。口感虽然不如使用厨师机的但是还行，冰箱保存要吃的时候微波炉叮一下更好。花费时间大多在发面。",
+    "category": "甜品",
+    "image_url": "./无厨师机蜂蜜面包.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "炸鲜奶",
+    "file_path": "data\\dishes\\dessert\\炸鲜奶\\炸鲜奶.md",
+    "description": "炸鲜奶是一种外脆里嫩的甜点，营养价值适中，制作难度中等，预计制作时长约为 20 分钟。",
+    "category": "甜品",
+    "image_url": "./炸鲜奶.jpg",
+    "cooking_time": null,
+    "tags": [
+      "营养"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "烤蛋挞",
+    "file_path": "data\\dishes\\dessert\\烤蛋挞\\烤蛋挞.md",
+    "description": "烤蛋挞是一道简单易于制作的甜品 且半成品可置于冰箱冷冻长时间保存 随吃随取 出品时间约 1 小时",
+    "category": "甜品",
+    "image_url": "./烤蛋挞.png",
+    "cooking_time": null,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "玛格丽特饼干",
+    "file_path": "data\\dishes\\dessert\\玛格丽特饼干\\玛格丽特饼干.md",
+    "description": "玛格丽特饼干通常作为下午茶点心或伴随热饮享用，是一种经典而受欢迎的点心。它们的酥脆质地和丰富的黄油味道使它们成为许多人喜爱的饼干之一。",
+    "category": "甜品",
+    "image_url": "./玛格丽特饼干.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "芋泥雪媚娘",
+    "file_path": "data\\dishes\\dessert\\芋泥雪媚娘\\芋泥雪媚娘.md",
+    "description": "芋泥雪媚娘是一道甜品，很适合做给孩子吃，无需烤箱，手残党也可以做成功～预计制作时间 2 小时。",
+    "category": "甜品",
+    "image_url": "./芋泥雪媚娘成品.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "英式司康",
+    "file_path": "data\\dishes\\dessert\\英式司康\\英式司康.md",
+    "description": "英式司康是非常简单快手的下午茶甜品，可以搭配果酱、茶与咖啡。成品以蛋奶香气为主轴风味，糖量适中不会过于甜腻。",
+    "category": "甜品",
+    "image_url": "./英式司康.png",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "快手"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "酸奶意式奶冻",
+    "file_path": "data\\dishes\\dessert\\酸奶意式奶冻\\酸奶意式奶冻.md",
+    "description": "意式奶冻非常适合作为餐后甜品，可以搭配果酱、水果和香草。成品增加了原味酸奶，不会过于甜腻。",
+    "category": "甜品",
+    "image_url": "./酸奶意式奶冻.png",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "雪花酥",
+    "file_path": "data\\dishes\\dessert\\雪花酥\\雪花酥.md",
+    "description": "雪花酥是一个快捷简便的甜点，适合装盒送礼，制作耗时 30 分钟。",
+    "category": "甜品",
+    "image_url": "./雪花酥成品.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "龟苓膏",
+    "file_path": "data\\dishes\\dessert\\龟苓膏\\龟苓膏.md",
+    "description": "预估烹饪难度：★★",
+    "category": "甜品",
+    "image_url": "./龟苓膏成品.jpg",
+    "cooking_time": null,
+    "tags": [
+      "快手"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "冰粉",
+    "file_path": "data\\dishes\\drink\\冰粉\\冰粉.md",
+    "description": "石凉粉，在有些地区也叫作冰粉，是河南省信阳市浉河区的一种著名特色小吃，属于豫菜系。该菜品类似果冻，但因为是天然植物做出来的，所以比果冻更健康，配上薄荷汁、柠檬汁、红豆等调料，清凉解暑。该食物深当地人的...",
+    "category": "饮品",
+    "image_url": "./石凉粉(冰粉)成品1.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "营养"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "奇异果菠菜特调",
+    "file_path": "data\\dishes\\drink\\奇异果菠菜特调\\奇异果菠菜特调.md",
+    "description": "预估烹饪难度：★",
+    "category": "饮品",
+    "image_url": "kiwi-example.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "柠檬水",
+    "file_path": "data\\dishes\\drink\\柠檬水\\柠檬水.md",
+    "description": "预估烹饪难度：★",
+    "category": "饮品",
+    "image_url": "./柠檬水.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "泰国手标红茶",
+    "file_path": "data\\dishes\\drink\\泰国手标红茶\\泰国手标红茶.md",
+    "description": "泰国手标红茶是泰国街头随处可见的奶茶，味道香纯，绵密。",
+    "category": "饮品",
+    "image_url": "./泰国手标红茶.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "海边落日",
+    "file_path": "data\\dishes\\drink\\海边落日\\海边落日.md",
+    "description": "预估烹饪难度：★★★",
+    "category": "饮品",
+    "image_url": "./海边落日.jpg",
+    "cooking_time": null,
+    "tags": [
+      "营养"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "百香果橙子特调",
+    "file_path": "data\\dishes\\drink\\百香果橙子特调\\百香果橙子特调.md",
+    "description": "茉莉绿茶版本",
+    "category": "饮品",
+    "image_url": "./tea-version.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "砂糖椰子冰沙",
+    "file_path": "data\\dishes\\drink\\砂糖椰子冰沙\\砂糖椰子冰沙.md",
+    "description": "砂糖椰子冰沙是一种制作极其快速方便的饮料，若原料选择得当则口感丰富。然而制作时动静较大，适合白天在家制作以作为下午茶。",
+    "category": "饮品",
+    "image_url": "砂糖椰子冰沙-1.jpg",
+    "cooking_time": null,
+    "tags": [
+      "快手"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "耙耙柑茶",
+    "file_path": "data\\dishes\\drink\\耙耙柑茶\\耙耙柑茶.md",
+    "description": "预估烹饪难度：★★",
+    "category": "饮品",
+    "image_url": "citrus-tea.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "菠萝咖啡特调",
+    "file_path": "data\\dishes\\drink\\菠萝咖啡特调\\菠萝咖啡特调.md",
+    "description": "菠萝咖啡特调是非常适合家庭出品的饮料，酸甜可口。",
+    "category": "饮品",
+    "image_url": "./菠萝咖啡特调.png",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "酒酿（醪糟）",
+    "file_path": "data\\dishes\\drink\\酒酿醪糟\\酒酿醪糟.md",
+    "description": "酒酿，也叫醪糟，是一道传统中式发酵甜品。成品清甜微醺，含少量酒精，具有健脾开胃、促进消化的功效。虽然制作需要一定发酵技巧，但过程简单有趣，是发酵入门好选择。预计制作时间为 2 天（不含等待时间操作仅需...",
+    "category": "饮品",
+    "image_url": "./酒酿醪糟.jpeg",
+    "cooking_time": null,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "酸梅汤",
+    "file_path": "data\\dishes\\drink\\酸梅汤\\酸梅汤.md",
+    "description": "视频演示： [链接](https://www.bilibili.com/video/BV1164y1F7hv/)",
+    "category": "饮品",
+    "image_url": "./imges/sour_plum_soup.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "金汤力",
+    "file_path": "data\\dishes\\drink\\金汤力\\金汤力.md",
+    "description": "预估烹饪难度：★★",
+    "category": "饮品",
+    "image_url": "./gin-tonic.jpg",
+    "cooking_time": null,
+    "tags": [
+      "营养"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "金菲士",
+    "file_path": "data\\dishes\\drink\\金菲士\\金菲士.md",
+    "description": "预估烹饪难度：★★",
+    "category": "饮品",
+    "image_url": "./gin-fizz.jpg",
+    "cooking_time": null,
+    "tags": [
+      "营养"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "乡村啤酒鸭",
+    "file_path": "data\\dishes\\meat_dish\\乡村啤酒鸭.md",
+    "description": "将鸭肉与啤酒一同炖煮成菜，使滋补的鸭肉味道更加浓厚，鸭肉不仅入口鲜香，还带有一股啤酒清香。一般初学者只需要 1 小时即可完成。",
+    "category": "荤菜",
+    "image_url": "https://jphuang-image.oss-cn-beijing.aliyuncs.com/beer/duck/%E6%88%90%E5%93%812.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "农家一碗香",
+    "file_path": "data\\dishes\\meat_dish\\农家一碗香\\农家一碗香.md",
+    "description": "农家一碗香，是一道地道的湖南菜，里面主要食材有青椒、鸡蛋和猪肉。味道咸香下饭，而且这道菜烹饪简单，不需要特别的处理。",
+    "category": "荤菜",
+    "image_url": "./农家一碗香成品.jpg",
+    "cooking_time": 17,
+    "tags": [
+      "简单",
+      "下饭"
+    ],
+    "cooking_time_label": "预计总耗时 17 分钟",
+    "cooking_time_source": "预计备菜 7 分钟，烹饪 10 分钟，总计 17 分钟"
+  },
+  {
+    "name": "冬瓜酿肉",
+    "file_path": "data\\dishes\\meat_dish\\冬瓜酿肉\\冬瓜酿肉.md",
+    "description": "荤素搭配，鲜嫩爽滑,做法简单。一般 30 分钟。",
+    "category": "荤菜",
+    "image_url": "./冬瓜酿肉成品.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "凉拌鸡丝",
+    "file_path": "data\\dishes\\meat_dish\\凉拌鸡丝\\凉拌鸡丝.md",
+    "description": "隔离期间的一道快手菜，少油低卡，制作简单，预计制作时间 30 分钟",
+    "category": "荤菜",
+    "image_url": "./凉拌鸡丝.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "快手"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "卤菜",
+    "file_path": "data\\dishes\\meat_dish\\卤菜\\卤菜.md",
+    "description": "卤菜是一道经典的中式卤味料理，富含蛋白质和多种维生素。肉质鲜嫩多汁，香气四溢，入味程度可根据浸泡时间自行调整。这道菜适合作为凉菜、下酒菜或搭配主食食用，卤水还可多次使用，越陈越香。",
+    "category": "荤菜",
+    "image_url": "./卤牛肉.jpeg",
+    "cooking_time": null,
+    "tags": [
+      "营养",
+      "下饭"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "口水鸡",
+    "file_path": "data\\dishes\\meat_dish\\口水鸡\\口水鸡.md",
+    "description": "口水鸡（凉菜），炎炎夏日里，热菜难以入口，但又嗜肉如命，",
+    "category": "荤菜",
+    "image_url": "./口水鸡.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "台式卤肉饭",
+    "file_path": "data\\dishes\\meat_dish\\台式卤肉饭\\台式卤肉饭.md",
+    "description": "糖和脂肪是人类快乐的源泉，富含这二者的台式卤肉饭每一口都能带来直击灵魂的满足感。",
+    "category": "荤菜",
+    "image_url": "./1.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "快手"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "咖喱肥牛",
+    "file_path": "data\\dishes\\meat_dish\\咖喱肥牛\\咖喱肥牛.md",
+    "description": "咖喱肥牛美味营养并且下饭，吃多了炒炸菜后再吃个咖喱肥牛相当美滋滋。",
+    "category": "荤菜",
+    "image_url": "./咖喱肥牛.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "营养",
+      "下饭"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "啤酒鸭",
+    "file_path": "data\\dishes\\meat_dish\\啤酒鸭\\啤酒鸭.md",
+    "description": "啤酒鸭不仅入口鲜香,还带有一股啤酒清香。肉久吃不腻,汤久涮而不淡。风味独特,具有热而不浮,香而不腻的独特口味让人赞口不绝。一般初学者需要 1 小时即可完成。",
+    "category": "荤菜",
+    "image_url": "./啤酒鸭.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "回锅肉",
+    "file_path": "data\\dishes\\meat_dish\\回锅肉\\回锅肉.md",
+    "description": "预估烹饪难度：★★★★",
+    "category": "荤菜",
+    "image_url": "./1.jpeg",
+    "cooking_time": null,
+    "tags": [
+      "下饭"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "土豆炖排骨",
+    "file_path": "data\\dishes\\meat_dish\\土豆炖排骨\\土豆炖排骨.md",
+    "description": "预估烹饪难度：★★★",
+    "category": "荤菜",
+    "image_url": "./排骨1.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "下饭"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "奶酪培根通心粉",
+    "file_path": "data\\dishes\\meat_dish\\奶酪培根通心粉\\奶酪培根通心粉.md",
+    "description": "这是一道美味的奶酪培根通心粉(Mac and Cheese)，适合四人享用。它结合了浓郁的奶酪和香脆的培根，简单易做，是一道受欢迎的美式家常菜。",
+    "category": "荤菜",
+    "image_url": "./oven.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "营养",
+      "美味"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "姜炒鸡",
+    "file_path": "data\\dishes\\meat_dish\\姜炒鸡\\姜炒鸡.md",
+    "description": "姜炒鸡是一道湖南口味菜，下饭五颗星，食材平平无奇又十分容易烹制，一学就会。",
+    "category": "荤菜",
+    "image_url": "./姜炒鸡.jpg",
+    "cooking_time": null,
+    "tags": [
+      "下饭"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "宫保鸡丁",
+    "file_path": "data\\dishes\\meat_dish\\宫保鸡丁\\宫保鸡丁.md",
+    "description": "老派川菜的简单做法分享",
+    "category": "荤菜",
+    "image_url": "./宫保鸡丁.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "小炒鸡肝",
+    "file_path": "data\\dishes\\meat_dish\\小炒鸡肝\\小炒鸡肝.md",
+    "description": "一道稍微麻烦的菜。",
+    "category": "荤菜",
+    "image_url": "./成品.jpg",
+    "cooking_time": null,
+    "tags": [
+      "美味",
+      "快手"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "小炒黄牛肉",
+    "file_path": "data\\dishes\\meat_dish\\小炒黄牛肉\\小炒黄牛肉.md",
+    "description": "小炒黄牛肉是一道简单易做的湘菜。口味十分劲爆爽口。一般初学者只需要 1 小时即可完成",
+    "category": "荤菜",
+    "image_url": "./小炒黄牛肉.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "尖叫牛蛙",
+    "file_path": "data\\dishes\\meat_dish\\尖叫牛蛙\\尖叫牛蛙.md",
+    "description": "尖叫牛蛙是一道容易完成的菜。一般初学者只需要 1-2 小时即可完成。该菜品味道鲜美之外，还具有开胃功效，非常适宜食欲不佳的时候做，老少皆宜。（能吃辣最好）",
+    "category": "荤菜",
+    "image_url": "./尖叫牛蛙.jpg",
+    "cooking_time": null,
+    "tags": [
+      "快手"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "巴基斯坦牛肉咖喱",
+    "file_path": "data\\dishes\\meat_dish\\巴基斯坦牛肉咖喱\\巴基斯坦牛肉咖喱.md",
+    "description": "Achar gosht（巴基斯坦牛肉咖喱）是一道来自巴基斯坦的特色咖喱菜品。这道菜融合了咖喱的香浓和牛肉的软糯口感，风味独特，偏辣口。它富含优质蛋白质和多种维生素，营养价值丰富。制作过程需要 2.5 ...",
+    "category": "荤菜",
+    "image_url": "./巴基斯坦牛肉咖喱.png",
+    "cooking_time": null,
+    "tags": [
+      "营养",
+      "下饭",
+      "美味"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "干煸仔鸡",
+    "file_path": "data\\dishes\\meat_dish\\干煸仔鸡\\干煸仔鸡.md",
+    "description": "干煸仔鸡是一道甜辣口味的川菜，是北京大学食堂赵春月厨师长研发的美食，广受师生喜爱。赵厨师长已将菜谱公开，方便大家自己动手制作，疫情居家下饭必备！",
+    "category": "荤菜",
+    "image_url": "./干煸仔鸡成品.jpg",
+    "cooking_time": null,
+    "tags": [
+      "下饭"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "广式萝卜牛腩",
+    "file_path": "data\\dishes\\meat_dish\\广式萝卜牛腩\\广式萝卜牛腩.md",
+    "description": "广式萝卜牛腩营养丰富，味道鲜美，汤汁浓郁、孩子食欲好了，成绩也好了。",
+    "category": "荤菜",
+    "image_url": "./广式萝卜牛腩.webp",
+    "cooking_time": null,
+    "tags": [
+      "营养"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "徽派红烧肉",
+    "file_path": "data\\dishes\\meat_dish\\徽派红烧肉\\徽派红烧肉.md",
+    "description": "徽式红烧肉是一道由五花肉等食材制成的菜肴。",
+    "category": "荤菜",
+    "image_url": "./1.jpeg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "新疆大盘鸡",
+    "file_path": "data\\dishes\\meat_dish\\新疆大盘鸡\\新疆大盘鸡.md",
+    "description": "预估烹饪难度：★★★★",
+    "category": "荤菜",
+    "image_url": "./大盘鸡.jpeg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "无骨鸡爪",
+    "file_path": "data\\dishes\\meat_dish\\无骨鸡爪\\无骨鸡爪.md",
+    "description": "这是一道做法简单但消耗体力和耐力的无骨鸡爪，酸辣开胃，Q 弹爽口，第一次做的话总耗时 8 个小时 15 分钟。",
+    "category": "荤菜",
+    "image_url": "./无骨鸡爪.jpg",
+    "cooking_time": 495,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "预计总耗时 8 小时 15 分钟",
+    "cooking_time_source": "第一次做的话总耗时 8 个小时 15 分钟"
+  },
+  {
+    "name": "柱候牛腩",
+    "file_path": "data\\dishes\\meat_dish\\柱候牛腩\\柱候牛腩.md",
+    "description": "肉香味美，色泽诱人，滋补强壮，口感甚佳，令人垂涎的广式菜肴。有高压锅只需 1 个小时，否则需要炖煮 3 个小时。",
+    "category": "荤菜",
+    "image_url": "./柱候牛腩.jpeg",
+    "cooking_time": null,
+    "tags": [
+      "快手"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "梅菜扣肉",
+    "file_path": "data\\dishes\\meat_dish\\梅菜扣肉\\梅菜扣肉.md",
+    "description": "梅菜扣肉造型别致、大方得体，颜色酱红油亮，汤汁黏稠鲜美，扣肉肥而不腻，食之软烂醇香。",
+    "category": "荤菜",
+    "image_url": "./1.jpeg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "水煮牛肉",
+    "file_path": "data\\dishes\\meat_dish\\水煮牛肉\\水煮牛肉.md",
+    "description": "麻辣鲜香",
+    "category": "荤菜",
+    "image_url": "./sznr1.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "清蒸鳜鱼",
+    "file_path": "data\\dishes\\meat_dish\\清蒸鳜鱼\\清蒸鳜鱼.md",
+    "description": "鳜鱼可以称的上淡水鱼之王，味道鲜美，所谓高端的食材只需要最简单的烹饪方式，清蒸最能体现鳜鱼的鲜美。",
+    "category": "荤菜",
+    "image_url": "./清蒸鳜鱼成品图.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "湖南家常红烧肉",
+    "file_path": "data\\dishes\\meat_dish\\湖南家常红烧肉\\湖南家常红烧肉.md",
+    "description": "湖南家常红烧肉，入口软糯，肥而不腻",
+    "category": "荤菜",
+    "image_url": "./湖南家常红烧肉.jpeg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "湘祁米夫鸭",
+    "file_path": "data\\dishes\\meat_dish\\湘祁米夫鸭\\湘祁米夫鸭.md",
+    "description": "湖南两祁地区特色菜品，逢年过节家家桌上有。鸭肉被米粉子包裹，入口咸香回味悠长可解乡愁。",
+    "category": "荤菜",
+    "image_url": "./湘祁米夫鸭.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "牛排",
+    "file_path": "data\\dishes\\meat_dish\\牛排\\牛排.md",
+    "description": "牛排是一种广受欢迎的西式肉类料理，富含蛋白质、油脂和铁、锌等矿物质。牛排的烹饪过程通过灵活的烹饪手法（如煎、烤、慢煮、熟成）控制牛排的熟度，从三分熟（中心为粉红色）到全熟（完全熟透）可选。高温烹饪能形...",
+    "category": "荤菜",
+    "image_url": "./牛排.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "下饭",
+      "快手"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "猪皮冻",
+    "file_path": "data\\dishes\\meat_dish\\猪皮冻\\猪皮冻.md",
+    "description": "猪皮冻是一道简单易做的菜。北方人年夜饭餐桌上的“常青树”，晶莹剔透的外表，滑嫩 Q 弹的口感，是不折不扣的超级下酒菜。",
+    "category": "荤菜",
+    "image_url": "./猪皮冻.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "瘦肉土豆片",
+    "file_path": "data\\dishes\\meat_dish\\瘦肉土豆片\\瘦肉土豆片.md",
+    "description": "瘦肉土豆片是一道简单易做的菜。小炒家常菜，方便快速，适合上班族用于带饭必备小炒菜。一般初学者只需要 1 小时即可完成。",
+    "category": "荤菜",
+    "image_url": "./瘦肉土豆片.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "快手"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "糖醋排骨",
+    "file_path": "data\\dishes\\meat_dish\\糖醋排骨\\糖醋排骨.md",
+    "description": "糖醋排骨是一道具有代表性的传统名菜，以其独特的酸甜口味深受大众喜爱。本菜谱在保留原有风味的基础上，对用料绑定、火候控制以及操作细节作了优化，旨在提高菜谱的可迁移性和可执行性。",
+    "category": "荤菜",
+    "image_url": "./1.jpeg",
+    "cooking_time": null,
+    "tags": [
+      "快手"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "红烧猪蹄",
+    "file_path": "data\\dishes\\meat_dish\\红烧猪蹄\\红烧猪蹄.md",
+    "description": "红烧猪蹄营养丰富，味道香，汤汁浓郁、下饭强。",
+    "category": "荤菜",
+    "image_url": "./红烧猪蹄.jpg",
+    "cooking_time": null,
+    "tags": [
+      "营养",
+      "下饭"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "简易红烧肉",
+    "file_path": "data\\dishes\\meat_dish\\红烧肉\\简易红烧肉.md",
+    "description": "这份红烧肉教程是一道新手不败的菜谱。配着米饭好吃的停不下来，香糯无敌棒色泽诱人肥而不腻。建议搭配米饭食用。",
+    "category": "荤菜",
+    "image_url": "./000.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "美味"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "羊排焖面",
+    "file_path": "data\\dishes\\meat_dish\\羊排焖面\\羊排焖面.md",
+    "description": "羊排焖面是一道硬菜，适合聚会时候大展身手。缺点就是有点花时间，优点就是好吃，而且一道菜补齐人体所需的三大营养物质。",
+    "category": "荤菜",
+    "image_url": "./羊排焖面.jpg",
+    "cooking_time": null,
+    "tags": [
+      "营养",
+      "美味"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "老妈蹄花",
+    "file_path": "data\\dishes\\meat_dish\\老妈蹄花\\老妈蹄花.md",
+    "description": "红烧猪蹄营养丰富，口感细腻，软烂脱骨，配上酸辣汁简直太香！",
+    "category": "荤菜",
+    "image_url": "./result3.jpg",
+    "cooking_time": null,
+    "tags": [
+      "营养"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "芥末罗氏虾",
+    "file_path": "data\\dishes\\meat_dish\\芥末罗氏虾\\芥末罗氏虾.md",
+    "description": "本菜品可替换成任意虾种类，包括但不限于基围虾、花虾、黑虎虾等。鲜香入味、芥末风味十足、吃完吮指，且操作十分简单。",
+    "category": "荤菜",
+    "image_url": "./芥末罗氏虾成品.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "茭白炒肉",
+    "file_path": "data\\dishes\\meat_dish\\茭白炒肉\\茭白炒肉.md",
+    "description": "茭白味道鲜美，有一定营养价值",
+    "category": "荤菜",
+    "image_url": "./1.jpeg",
+    "cooking_time": null,
+    "tags": [
+      "营养"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "荔枝肉",
+    "file_path": "data\\dishes\\meat_dish\\荔枝肉\\荔枝肉.md",
+    "description": "荔枝肉独具闽菜特点，味道酸甜可口。是福州地区比较常见的一道菜肴",
+    "category": "荤菜",
+    "image_url": "./1.jpeg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "荷兰豆炒腊肠",
+    "file_path": "data\\dishes\\meat_dish\\荷兰豆炒腊肠\\荷兰豆炒腊肠.md",
+    "description": "荷兰豆炒腊肠是一道营养丰富，口感清爽，有利于开胃助食，增进食欲的美味菜肴。荷兰豆中富含人体所需的各种营养物质，尤其是含有优质蛋白质，可以提高机体的抗病能力和康复能力。",
+    "category": "荤菜",
+    "image_url": "./1.png",
+    "cooking_time": null,
+    "tags": [
+      "营养",
+      "美味"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "血浆鸭",
+    "file_path": "data\\dishes\\meat_dish\\血浆鸭\\血浆鸭.md",
+    "description": "血浆鸭是湖南武冈特色传统名菜，香、脆可口，由于醋血的作用，不仅鸭骨酥而脆，就是姜和辣椒也变得不辣而甜净。一般初学者只需要 2 小时就可以完成。",
+    "category": "荤菜",
+    "image_url": "./血浆鸭(特辣).jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "西红柿土豆炖牛肉",
+    "file_path": "data\\dishes\\meat_dish\\西红柿土豆炖牛肉\\西红柿土豆炖牛肉.md",
+    "description": "西红柿土豆炖牛肉（腩）的特点就是还挺好吃，牛肉是优质蛋白，换成牛腩更好吃。",
+    "category": "荤菜",
+    "image_url": "./abaaba_1.png",
+    "cooking_time": null,
+    "tags": [
+      "美味"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "豆豉鲮鱼油麦菜",
+    "file_path": "data\\dishes\\meat_dish\\豆豉鲮鱼油麦菜\\豆豉鲮鱼油麦菜.md",
+    "description": "豆豉鲮鱼油麦菜是一到十分常见的菜，材料简单，操作方便，鲮鱼咸香，非常下饭。",
+    "category": "荤菜",
+    "image_url": "./豆豉鲮鱼油麦菜成品.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "下饭"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "豉汁蒸白鱔",
+    "file_path": "data\\dishes\\meat_dish\\豉汁蒸白鱔\\豉汁蒸白鱔食谱.md",
+    "description": "预估烹饪难度：★★★",
+    "category": "荤菜",
+    "image_url": "./豉汁蒸白鱔.jpeg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "贵州辣子鸡",
+    "file_path": "data\\dishes\\meat_dish\\贵州辣子鸡\\贵州辣子鸡.md",
+    "description": "贵州人对吃鸡的执恋",
+    "category": "荤菜",
+    "image_url": "./贵州辣子鸡.jpg",
+    "cooking_time": null,
+    "tags": [
+      "下饭"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "酱排骨",
+    "file_path": "data\\dishes\\meat_dish\\酱排骨\\酱排骨.md",
+    "description": "酱排骨其色泽酱红，肉质酥烂，骨香浓郁，汁浓味鲜，咸中带甜。",
+    "category": "荤菜",
+    "image_url": "./1.jpeg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "酱牛肉",
+    "file_path": "data\\dishes\\meat_dish\\酱牛肉\\酱牛肉.md",
+    "description": "家常酱牛肉营养丰富，味道香，不论是当作主食还是佐餐都很棒。一般初学者只需要 3 小时即可完成。",
+    "category": "荤菜",
+    "image_url": "./酱牛肉.jpg",
+    "cooking_time": null,
+    "tags": [
+      "营养"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "醉排骨",
+    "file_path": "data\\dishes\\meat_dish\\醉排骨\\醉排骨.md",
+    "description": "醉排骨是福建省福州市特色传统名菜",
+    "category": "荤菜",
+    "image_url": "./1.jpeg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "青椒土豆炒肉",
+    "file_path": "data\\dishes\\meat_dish\\青椒土豆炒肉\\青椒土豆炒肉.md",
+    "description": "青椒土豆炒肉是一道荤素搭配的简单炒菜。一般初学者只需要 1 小时即可完成。贼下饭~",
+    "category": "荤菜",
+    "image_url": "https://user-images.githubusercontent.com/49046468/205808925-b0ab8f98-0325-4136-8094-3f2ae8c547d5.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "下饭"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "香干芹菜炒肉",
+    "file_path": "data\\dishes\\meat_dish\\香干芹菜炒肉\\香干芹菜炒肉.md",
+    "description": "香干芹菜炒肉是一道非常简单的家常菜小炒，据说多吃芹菜对于高血压有很好的缓解作用，加上香干和猪肉一起翻炒，还是很美味的。一般初学者只需要 30 分钟（含配菜时间）即可完成。",
+    "category": "荤菜",
+    "image_url": "./香干芹菜炒肉.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "下饭",
+      "美味"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "香煎五花肉",
+    "file_path": "data\\dishes\\meat_dish\\香煎五花肉\\香煎五花肉.md",
+    "description": "香煎五花肉一道简单易上手的菜。五花肉肥而不腻，生菜叶脆爽健康。稍微有下厨经验的人半小时便可制作完毕。",
+    "category": "荤菜",
+    "image_url": "./香煎五花肉.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "营养"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "香菇滑鸡",
+    "file_path": "data\\dishes\\meat_dish\\香菇滑鸡\\香菇滑鸡.md",
+    "description": "预估烹饪难度：★★★",
+    "category": "荤菜",
+    "image_url": "./香菇滑鸡.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "香辣鸡爪煲",
+    "file_path": "data\\dishes\\meat_dish\\香辣鸡爪煲\\香辣鸡爪煲.md",
+    "description": "香辣鸡爪煲口感 Q 弹，香辣浓郁，回味无穷。",
+    "category": "荤菜",
+    "image_url": "./result2.jpg",
+    "cooking_time": null,
+    "tags": [
+      "下饭"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "鱼香茄子",
+    "file_path": "data\\dishes\\meat_dish\\鱼香茄子\\鱼香茄子.md",
+    "description": "这个菜真的超级下饭，当个干饭王吧。",
+    "category": "荤菜",
+    "image_url": "./yxqz1.jpg",
+    "cooking_time": null,
+    "tags": [
+      "下饭"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "麻婆豆腐",
+    "file_path": "data\\dishes\\meat_dish\\麻婆豆腐\\麻婆豆腐.md",
+    "description": "这是参考麻婆豆腐创作的一道菜。富含有铁、钙、磷、镁等人体必需的多种微量元素，最重要的是非常下饭哦～",
+    "category": "荤菜",
+    "image_url": "./1.jpeg",
+    "cooking_time": null,
+    "tags": [
+      "下饭"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "黑椒牛柳",
+    "file_path": "data\\dishes\\meat_dish\\黑椒牛柳\\黑椒牛柳.md",
+    "description": "黑椒牛柳是一道简单易做的菜。蔬菜与肉类均衡，富含蛋白质，口味适合大多数人。一般初学者只需要 1 小时以内即可完成。",
+    "category": "荤菜",
+    "image_url": "./黑椒牛柳.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "黔式腊肠娃娃菜",
+    "file_path": "data\\dishes\\meat_dish\\黔式腊肠娃娃菜\\黔式腊肠娃娃菜.md",
+    "description": "黔式腊肠娃娃菜不需要掌握火候，也无需调料，非常适合懒癌的菜。制作时间 15 分钟，口味近似于川菜、湘菜，却是西南菜系中鲜见的不辣菜式，咸鲜可口、南北皆宜。",
+    "category": "荤菜",
+    "image_url": "./黔式腊肠娃娃菜.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "懒人蛋挞",
+    "file_path": "data\\dishes\\semi-finished\\懒人蛋挞\\懒人蛋挞.md",
+    "description": "蛋挞是一道常见的可口甜品，通常而言制作蛋挞是需要调和蛋挞液和制作蛋挞皮的，这个过程比较复杂和耗时，但是网购半成品恰恰解决解决以上的难题，初学者只需大约 40 分就可以完成。从今往后只要家里有烤箱，就可...",
+    "category": "家常菜",
+    "image_url": "./懒人蛋挞.png",
+    "cooking_time": null,
+    "tags": [
+      "快手"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "炸薯条",
+    "file_path": "data\\dishes\\semi-finished\\炸薯条\\炸薯条.md",
+    "description": "薯条🍟是一种土豆🥔\\马铃薯🥔\\洋芋🥔切成条状之后再油炸而成的快餐食物（在有的国家可能不算快餐），非常适合。相较于油炸，空气炸锅可能会更加易于避免崩溃和实现异步非阻塞。相较于自己动手切土豆再洗去淀粉并喷...",
+    "category": "家常菜",
+    "image_url": "./炸薯条.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "空气炸锅羊排",
+    "file_path": "data\\dishes\\semi-finished\\空气炸锅羊排\\空气炸锅羊排.md",
+    "description": "空气炸锅羊排超级懒人版，味道尚可，主要看羊排的品质。",
+    "category": "家常菜",
+    "image_url": "./羊排.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "空气炸锅鸡翅中",
+    "file_path": "data\\dishes\\semi-finished\\空气炸锅鸡翅中\\空气炸锅鸡翅中.md",
+    "description": "空气炸锅做鸡翅中方便，这样自带油脂的食物味道很好，比 KFC 的好吃，吃完不**用洗碗洗锅**。",
+    "category": "家常菜",
+    "image_url": "./鸡翅中_0.jpg",
+    "cooking_time": null,
+    "tags": [
+      "美味"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "速冻汤圆",
+    "file_path": "data\\dishes\\semi-finished\\速冻汤圆\\速冻汤圆.md",
+    "description": "速冻汤圆是一道简单易做的菜。一般初学者只需要 6 分钟即可完成。",
+    "category": "家常菜",
+    "image_url": "./速冻汤圆.jpg",
+    "cooking_time": 6,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "预计总耗时 6 分钟",
+    "cooking_time_source": "一般初学者只需要 6 分钟即可完成"
+  },
+  {
+    "name": "勾芡香菇汤",
+    "file_path": "data\\dishes\\soup\\勾芡香菇汤\\勾芡香菇汤.md",
+    "description": "鲜香菇除了拿来和肉炒外，其实拿来做浓浓的勾芡汤也是非常可口的。",
+    "category": "汤品",
+    "image_url": "./1.jpeg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "昂刺鱼豆腐汤",
+    "file_path": "data\\dishes\\soup\\昂刺鱼豆腐汤\\昂刺鱼豆腐汤.md",
+    "description": "- 昂刺鱼/沙光鱼 豆腐汤 刺少 肉嫩 营养丰盛、适合任何年龄的小伙伴",
+    "category": "汤品",
+    "image_url": "./沙光鱼豆腐汤.jpg",
+    "cooking_time": null,
+    "tags": [
+      "营养"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "朱雀汤",
+    "file_path": "data\\dishes\\soup\\朱雀汤\\朱雀汤.md",
+    "description": "预估烹饪难度：★",
+    "category": "汤品",
+    "image_url": "./朱雀汤.jpg",
+    "cooking_time": null,
+    "tags": [
+      "快手"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "玉米排骨汤",
+    "file_path": "data\\dishes\\soup\\玉米排骨汤\\玉米排骨汤.md",
+    "description": "新鲜的排骨除了拿来烧或者炖之外，还可以用来煲汤，搭配玉米和胡萝卜煲出来的汤非常鲜美。",
+    "category": "汤品",
+    "image_url": "./玉米排骨汤.jpeg",
+    "cooking_time": null,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "羊肉汤",
+    "file_path": "data\\dishes\\soup\\羊肉汤\\羊肉汤.md",
+    "description": "羊肉汤/羊肉汤简单易，有抵御寒冷、温润养胃、开胃健脾的功效，富含钙、铁、蛋白质等营养物质。",
+    "category": "汤品",
+    "image_url": "./羊肉汤.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "营养"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "菌菇炖乳鸽",
+    "file_path": "data\\dishes\\soup\\菌菇炖乳鸽\\菌菇炖乳鸽.md",
+    "description": "- 菌菇炖乳鸽 汤鲜、肉嫩、营养丰富",
+    "category": "汤品",
+    "image_url": "./菌菇炖乳鸽.jpg",
+    "cooking_time": null,
+    "tags": [
+      "营养"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "银耳莲子粥",
+    "file_path": "data\\dishes\\soup\\银耳莲子粥\\银耳莲子粥.md",
+    "description": "银耳莲子粥是一道营养非常丰富的粥。口味偏甜，具有养心安神的功效。",
+    "category": "汤品",
+    "image_url": "./银耳莲子粥.png",
+    "cooking_time": null,
+    "tags": [
+      "营养"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "陈皮排骨汤",
+    "file_path": "data\\dishes\\soup\\陈皮排骨汤\\陈皮排骨汤.md",
+    "description": "新鲜的排骨除了拿来烧或者炖之外，还可以用来煲汤，搭配广东陈皮煲出来的汤非常养生，对脾胃、肺及咽喉都有一定的滋补功效，熬夜党必备。",
+    "category": "汤品",
+    "image_url": "./陈皮排骨汤.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "凉粉",
+    "file_path": "data\\dishes\\staple\\凉粉\\凉粉.md",
+    "description": "伤心凉粉吃了不会让人伤心的哦！",
+    "category": "主食",
+    "image_url": "./lf1.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "基础牛奶面包",
+    "file_path": "data\\dishes\\staple\\基础牛奶面包\\基础牛奶面包.md",
+    "description": "面包是常见的主食。普通面包需要经过长时间的发酵及和面。但本食谱尽量简化了制作步骤，方便新手上手，并尽量保证其风味。当然，要求更高的也可以查阅其的面包食谱。",
+    "category": "主食",
+    "image_url": "./1-1成品.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "微波炉腊肠煲仔饭",
+    "file_path": "data\\dishes\\staple\\微波炉腊肠煲仔饭\\微波炉腊肠煲仔饭.md",
+    "description": "程序员以单身汉居多 🐶，做再多的菜也会有一个人吃不完的烦恼，因此一份简单的腊肠煲仔饭则刚刚好。",
+    "category": "主食",
+    "image_url": "微波炉腊肠煲仔饭.png",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "营养",
+      "美味"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "意式肉酱面",
+    "file_path": "data\\dishes\\staple\\意式肉酱面\\意式肉酱面.md",
+    "description": "意式肉酱面是一道非常容易做的菜，做得熟练的话，可以在 15 分钟内完成，从此告别方便面",
+    "category": "主食",
+    "image_url": "./final.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "扬州炒饭",
+    "file_path": "data\\dishes\\staple\\扬州炒饭\\扬州炒饭.md",
+    "description": "扬州炒饭是蛋炒饭的升级版，制作时间较长，但是制作步骤简单",
+    "category": "主食",
+    "image_url": "./veg.png",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "快手"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "披萨饼皮",
+    "file_path": "data\\dishes\\staple\\披萨饼皮\\披萨饼皮.md",
+    "description": "披萨制作总体来说比较简单，稍微有点麻烦也是争议最多的就是披萨饼皮，做好了披萨饼皮喜欢吃什么口味的披萨，直接把准备好的食材放上去烤熟就好，所以这里重点说一下披萨饼皮如何制作。",
+    "category": "主食",
+    "image_url": "./001.jpeg",
+    "cooking_time": null,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "日式咖喱饭",
+    "file_path": "data\\dishes\\staple\\日式咖喱饭\\日式咖喱饭.md",
+    "description": "预估烹饪难度：★★★★",
+    "category": "主食",
+    "image_url": "./成品.jpg",
+    "cooking_time": null,
+    "tags": [
+      "快手"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "日式肥牛丼饭",
+    "file_path": "data\\dishes\\staple\\日式肥牛丼饭\\日式肥牛丼饭.md",
+    "description": "预估烹饪难度：★★★★",
+    "category": "主食",
+    "image_url": "./成品.png",
+    "cooking_time": null,
+    "tags": [
+      "下饭",
+      "美味",
+      "快手"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "河南蒸面条",
+    "file_path": "data\\dishes\\staple\\河南蒸面条\\河南蒸面条.md",
+    "description": "河南蒸面条是一道在河南坊间流行的小吃，也可以用家里的挂面制作。",
+    "category": "主食",
+    "image_url": "./河南蒸面条.png",
+    "cooking_time": null,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "火腿饭团",
+    "file_path": "data\\dishes\\staple\\火腿饭团\\火腿饭团.md",
+    "description": "好吃！富含碳水和蛋白质还有维生素。有手就行的制作难度，预计制作时间 1 h 。",
+    "category": "主食",
+    "image_url": "./饭团.png",
+    "cooking_time": null,
+    "tags": [
+      "营养",
+      "美味"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "炒凉粉",
+    "file_path": "data\\dishes\\staple\\炒凉粉\\炒凉粉.md",
+    "description": "炒凉粉是一道流行于山西、陕西地区的一道特色小吃，入口滑嫩，老少皆宜。",
+    "category": "主食",
+    "image_url": "./chaoliangfen.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "炒意大利面",
+    "file_path": "data\\dishes\\staple\\炒意大利面\\炒意大利面.md",
+    "description": "这是一道软糯爽口的意大利面的做法，非常简单，用时大概 30 分钟。",
+    "category": "主食",
+    "image_url": "./a.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "烙饼",
+    "file_path": "data\\dishes\\staple\\烙饼\\烙饼.md",
+    "description": "预估烹饪难度：★★★★",
+    "category": "主食",
+    "image_url": "./成品.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "芝麻烧饼",
+    "file_path": "data\\dishes\\staple\\烧饼\\芝麻烧饼.md",
+    "description": "芝麻烧饼，外酥里软，简单易做。",
+    "category": "主食",
+    "image_url": "./芝麻烧饼.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "美味"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "电饭煲三文鱼炊饭",
+    "file_path": "data\\dishes\\staple\\电饭煲三文鱼炊饭\\电饭煲三文鱼炊饭.md",
+    "description": "预估烹饪难度：★★",
+    "category": "主食",
+    "image_url": "./电饭煲三文鱼炊饭.webp",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "空气炸锅照烧鸡饭",
+    "file_path": "data\\dishes\\staple\\空气炸锅照烧鸡饭\\空气炸锅照烧鸡饭.md",
+    "description": "空气炸锅照烧鸡饭是一道简单易做的菜。是一道既便利又便宜的美食，而且在品尝美味的同时，新手也能完全掌握！",
+    "category": "主食",
+    "image_url": "./空气炸锅照烧鸡饭.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "美味"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "煮锅蒸米饭",
+    "file_path": "data\\dishes\\staple\\米饭\\煮锅蒸米饭.md",
+    "description": "预估烹饪难度：★★",
+    "category": "主食",
+    "image_url": "./rice_regularPot.jpeg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "老友猪肉粉",
+    "file_path": "data\\dishes\\staple\\老友猪肉粉\\老友猪肉粉.md",
+    "description": "预估烹饪难度：★★★",
+    "category": "主食",
+    "image_url": "老友猪肉粉.jpg",
+    "cooking_time": null,
+    "tags": [
+      "美味"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "茄子肉煎饼",
+    "file_path": "data\\dishes\\staple\\茄子肉煎饼\\茄子肉煎饼.md",
+    "description": "茄子肉煎饼是一道简单易做的饼类主食。",
+    "category": "主食",
+    "image_url": "./茄子肉煎饼.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "西红柿鸡蛋挂面",
+    "file_path": "data\\dishes\\staple\\西红柿鸡蛋挂面\\西红柿鸡蛋挂面.md",
+    "description": "挂面太多怎么办？只煮个白水面味道难以下咽怎么办？简单的食材煮个美味的面条怎么操作？",
+    "category": "主食",
+    "image_url": "./food.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "美味",
+      "快手"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "酱拌荞麦面",
+    "file_path": "data\\dishes\\staple\\酱拌荞麦面\\酱拌荞麦面.md",
+    "description": "酱拌荞麦面营养健康、酸甜可口",
+    "category": "主食",
+    "image_url": "./1.jpeg",
+    "cooking_time": null,
+    "tags": [
+      "营养"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "韩式拌饭",
+    "file_path": "data\\dishes\\staple\\韩式拌饭\\韩式拌饭.md",
+    "description": "预估烹饪难度：★★★",
+    "category": "主食",
+    "image_url": "./韩式拌饭.png",
+    "cooking_time": null,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "鲣鱼海苔玉米饭",
+    "file_path": "data\\dishes\\staple\\鲣鱼海苔玉米饭\\鲣鱼海苔玉米饭.md",
+    "description": "空气炸锅羊排超级懒人版，味道尚可，主要看羊排的品质。",
+    "category": "主食",
+    "image_url": "./米饭.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "示例菜",
+    "file_path": "data\\dishes\\template\\示例菜\\示例菜.md",
+    "description": "<!-- 这是 HowToCook 菜谱仓库中的示例菜谱模板文件。 -->",
+    "category": "家常菜",
+    "image_url": "./示例菜.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "营养",
+      "美味"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "上汤娃娃菜",
+    "file_path": "data\\dishes\\vegetable_dish\\上汤娃娃菜\\上汤娃娃菜.md",
+    "description": "上汤娃娃菜的做法 （素菜、减肥餐）",
+    "category": "素食",
+    "image_url": "./上汤娃娃菜.png",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "凉拌木耳",
+    "file_path": "data\\dishes\\vegetable_dish\\凉拌木耳\\凉拌木耳.md",
+    "description": "凉拌木耳，由于发放物资中有很多干货，木耳是较为健康的食物。且凉拌木耳的烹饪方式也相对简单。",
+    "category": "素食",
+    "image_url": "1.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "营养"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "凉拌莴笋",
+    "file_path": "data\\dishes\\vegetable_dish\\凉拌莴笋\\凉拌莴笋.md",
+    "description": "凉拌莴笋，开胃小菜",
+    "category": "素食",
+    "image_url": "./1.jpeg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "包菜炒鸡蛋粉丝",
+    "file_path": "data\\dishes\\vegetable_dish\\包菜炒鸡蛋粉丝\\包菜炒鸡蛋粉丝.md",
+    "description": "包菜炒鸡蛋粉丝，是中国的一道日常生活中所熟知的菜品",
+    "category": "素食",
+    "image_url": "./1.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "小炒藕丁",
+    "file_path": "data\\dishes\\vegetable_dish\\小炒藕丁\\小炒藕丁.md",
+    "description": "小炒藕丁是一道简单易做的菜，莲藕营养丰富，非常适合素食。预计制作时长 20 分钟",
+    "category": "素食",
+    "image_url": "./小炒藕丁.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "营养"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "干锅花菜",
+    "file_path": "data\\dishes\\vegetable_dish\\干锅花菜\\干锅花菜.md",
+    "description": "干锅花菜是湘菜常见的一道菜。",
+    "category": "素食",
+    "image_url": "./干锅花菜.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "手撕包菜",
+    "file_path": "data\\dishes\\vegetable_dish\\手撕包菜\\手撕包菜.md",
+    "description": "手撕包菜是一道色香味俱全的汉族名菜，属于湘菜系",
+    "category": "素食",
+    "image_url": "./1.jpeg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "拔丝土豆",
+    "file_path": "data\\dishes\\vegetable_dish\\拔丝土豆\\拔丝土豆.md",
+    "description": "拔丝土豆是一道色香味俱全的特色名菜，属于鲁菜系",
+    "category": "素食",
+    "image_url": "./1.jpeg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "椒盐玉米",
+    "file_path": "data\\dishes\\vegetable_dish\\椒盐玉米\\椒盐玉米.md",
+    "description": "预估烹饪难度：★★★",
+    "category": "素食",
+    "image_url": "./椒盐玉米.jpeg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "榄菜肉末四季豆",
+    "file_path": "data\\dishes\\vegetable_dish\\榄菜肉末四季豆\\榄菜肉末四季豆.md",
+    "description": "预估烹饪难度：★★★",
+    "category": "素食",
+    "image_url": "./榄菜肉末四季豆.JPG",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "洋葱炒鸡蛋",
+    "file_path": "data\\dishes\\vegetable_dish\\洋葱炒鸡蛋\\洋葱炒鸡蛋.md",
+    "description": "洋葱炒鸡蛋，是中国的一道日常生活中所熟知的菜品",
+    "category": "素食",
+    "image_url": "./1.jpeg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "炒滑蛋",
+    "file_path": "data\\dishes\\vegetable_dish\\炒滑蛋\\炒滑蛋.md",
+    "description": "炒滑蛋是一道简单易做的菜。一般初学者只需要 5 分钟即可完成。",
+    "category": "素食",
+    "image_url": "./炒滑蛋.jpg",
+    "cooking_time": 5,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "预计总耗时 5 分钟",
+    "cooking_time_source": "一般初学者只需要 5 分钟即可完成"
+  },
+  {
+    "name": "烤茄子",
+    "file_path": "data\\dishes\\vegetable_dish\\烤茄子\\烤茄子.md",
+    "description": "非常简单方便，而且香极了",
+    "category": "素食",
+    "image_url": "./烤茄子.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "白灼菜心",
+    "file_path": "data\\dishes\\vegetable_dish\\白灼菜心\\白灼菜心.md",
+    "description": "<!-- 标题必须是 `菜名` + `的做法`。和文件名一致。 -->",
+    "category": "素食",
+    "image_url": "./白灼菜心.jpg",
+    "cooking_time": null,
+    "tags": [
+      "快手"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "糖拌西红柿",
+    "file_path": "data\\dishes\\vegetable_dish\\糖拌西红柿\\糖拌西红柿.md",
+    "description": "新鲜可口，制作简便，营养价值高，适合夏季食用，家庭餐桌上的一道美味凉菜。西红柿含有大量的维生素 C, 做法简单 几分钟就可完成。",
+    "category": "素食",
+    "image_url": "./火山飘雪.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "营养",
+      "美味"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "红烧冬瓜",
+    "file_path": "data\\dishes\\vegetable_dish\\红烧冬瓜\\红烧冬瓜.md",
+    "description": "红烧冬瓜是一道具有色泽红亮，香鲜味美、营养价值丰富的家常菜",
+    "category": "素食",
+    "image_url": "./1.jpeg",
+    "cooking_time": null,
+    "tags": [
+      "营养"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "芹菜拌茶树菇",
+    "file_path": "data\\dishes\\vegetable_dish\\芹菜拌茶树菇\\芹菜拌茶树菇.md",
+    "description": "芹菜拌茶树菇是一道简单易做的凉拌菜。富含多种人体所需的维生素和矿物质。一般初学者只需要 30 分钟即可完成。",
+    "category": "素食",
+    "image_url": "./芹菜拌茶树菇.jpg",
+    "cooking_time": 30,
+    "tags": [
+      "简单",
+      "营养"
+    ],
+    "cooking_time_label": "预计总耗时 30 分钟",
+    "cooking_time_source": "一般初学者只需要 30 分钟即可完成"
+  },
+  {
+    "name": "莴笋叶煎饼",
+    "file_path": "data\\dishes\\vegetable_dish\\莴笋叶煎饼\\莴笋叶煎饼.md",
+    "description": "莴笋叶煎饼营养、好吃",
+    "category": "素食",
+    "image_url": "./1.jpeg",
+    "cooking_time": null,
+    "tags": [
+      "营养",
+      "下饭",
+      "美味"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "菠菜炒鸡蛋",
+    "file_path": "data\\dishes\\vegetable_dish\\菠菜炒鸡蛋\\菠菜炒鸡蛋.md",
+    "description": "这道菜难度系数简单，营养丰富。",
+    "category": "素食",
+    "image_url": "./菠菜炒鸡蛋.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "营养"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "蒜蓉空心菜",
+    "file_path": "data\\dishes\\vegetable_dish\\蒜蓉空心菜\\蒜蓉空心菜.md",
+    "description": "背景：",
+    "category": "素食",
+    "image_url": "./1.JPG",
+    "cooking_time": null,
+    "tags": [
+      "快手"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "虎皮青椒",
+    "file_path": "data\\dishes\\vegetable_dish\\虎皮青椒\\虎皮青椒.md",
+    "description": "预估烹饪难度：★★★",
+    "category": "素食",
+    "image_url": "./虎皮青椒.jpg",
+    "cooking_time": null,
+    "tags": [],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "蚝油三鲜菇",
+    "file_path": "data\\dishes\\vegetable_dish\\蚝油三鲜菇\\蚝油三鲜菇.md",
+    "description": "几分钟就能做出的蚝油蘑菇，滑嫩入味鲜美可口，别提多好吃了。",
+    "category": "素食",
+    "image_url": "./1.jpeg",
+    "cooking_time": null,
+    "tags": [
+      "美味"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "西红柿豆腐汤羹",
+    "file_path": "data\\dishes\\vegetable_dish\\西红柿豆腐汤羹\\西红柿豆腐汤羹.md",
+    "description": "西红柿豆腐汤羹是一道很清淡美味的汤羹",
+    "category": "素食",
+    "image_url": "./1.jpeg",
+    "cooking_time": null,
+    "tags": [
+      "美味"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "西葫芦炒鸡蛋",
+    "file_path": "data\\dishes\\vegetable_dish\\西葫芦炒鸡蛋\\西葫芦炒鸡蛋.md",
+    "description": "西葫芦炒鸡蛋是一道简单易做的家常菜。简单易购的食材，好吃又下饭。",
+    "category": "素食",
+    "image_url": "./西葫芦炒鸡蛋.jpeg",
+    "cooking_time": null,
+    "tags": [
+      "简单",
+      "下饭",
+      "美味"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "话梅煮毛豆",
+    "file_path": "data\\dishes\\vegetable_dish\\话梅煮毛豆\\话梅煮毛豆.md",
+    "description": "酸甜可口、营养价值高的一种简易美食",
+    "category": "素食",
+    "image_url": "./1.jpeg",
+    "cooking_time": null,
+    "tags": [
+      "营养"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "微波炉鸡蛋羹",
+    "file_path": "data\\dishes\\vegetable_dish\\鸡蛋羹\\微波炉鸡蛋羹.md",
+    "description": "微波炉鸡蛋羹是一个简单易制作的菜。非常适合夜间突然饿了的时候充当夜宵，快捷简单。",
+    "category": "素食",
+    "image_url": "./微波炉鸡蛋羹.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  },
+  {
+    "name": "鸡蛋羹",
+    "file_path": "data\\dishes\\vegetable_dish\\鸡蛋羹\\鸡蛋羹.md",
+    "description": "鸡蛋羹，又称水蒸蛋，不需要准备复杂的食材，是一道简单快捷易做的菜，当早餐或是正餐都可，制作时长约为 15 分钟。",
+    "category": "素食",
+    "image_url": "./鸡蛋羹.jpg",
+    "cooking_time": null,
+    "tags": [
+      "简单"
+    ],
+    "cooking_time_label": "耗时待确认",
+    "cooking_time_source": ""
+  }
+]

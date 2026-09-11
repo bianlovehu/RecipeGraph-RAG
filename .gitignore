@@ -1,0 +1,39 @@
+# Environment and credentials
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# IDE and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Runtime data and logs
+volumes/
+artifacts/logs/
+*.log
+*.pid
+
+# Generated artifacts
+artifacts/recipe_agent/
+artifacts/evaluation/results.json
+
+# Build outputs
+build/
+dist/
+*.egg-info/
+
